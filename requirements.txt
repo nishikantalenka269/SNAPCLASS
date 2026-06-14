@@ -15,5 +15,5 @@ pillow
 
 
 
-librosea
+librosa
 resemblyzer
